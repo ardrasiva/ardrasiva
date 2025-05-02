@@ -7,7 +7,7 @@
 
 Find me on : 
 
-- 💼 LinkedIn: www.linkedin.com/in/ardra-siva-prasad-436541331
+- 💼 LinkedIn: www.linkedin.com/in/ardra-siva-prasad
 - 📧 Email: ardrasivaprasad17@gmail.com
 
 Thanks for stopping by! 
