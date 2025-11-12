@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning **Machine Learning** and more **front-end tools** and I would love to dig in to **React** in future!
 - 🤩 Data Structures? I Love studying and solving them!
 - 💞️ I’m looking to collaborate on interesting tech projects that are fun to work with!
-- ⚡ Fun fact: I love turning ideas into real-world solutions!
 
 Find me on : 
 
