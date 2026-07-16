@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Ardra**!
-- 🏫 I'm currently an **Undergraduate Student in Computer Science and Engineering** and an aspiring **FrontEnd Developer!**
+- 🏫 I'm currently a **Graduate in Computer Science and Engineering** and an aspiring **Java Full Stack Developer!**
 - 👀 I’m interested in **Web Development**, **App Development**,**Data Science** and **UI/UX Designing**.
 - 🌱 I’m currently learning **Machine Learning** and more **front-end tools** and I would love to dig in to **React** in future!
 - 🤩 Data Structures? I Love studying and solving them!
